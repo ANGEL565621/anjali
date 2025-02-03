@@ -1,6 +1,6 @@
 import "./globals.css";
 export const metadata = {
-  title: "Anjali",
+  title: "Lovenest",
   description: "Valentines Gift",
 };
 
