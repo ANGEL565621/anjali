@@ -192,6 +192,7 @@ export default function ProductList() {
   };
 
   const addToCart = (product) => {
+    alert("Added to cart!");
     if (product.status !== "Add to Cart") return;
 
     setCart((prevCart) => {

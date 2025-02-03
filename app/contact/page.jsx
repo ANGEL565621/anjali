@@ -131,12 +131,12 @@ export default function ContactUs() {
                     href="mailto:contact@valentinesgifts.com"
                     className="text-pink-600"
                   >
-                    contact@lovenest.com
+                    anjali.jaiswal.1l15@gmail.com
                   </a>
                   <br />
                   Phone:{" "}
                   <a href="tel:+1234567890" className="text-pink-600">
-                    +91 9000534387
+                    +91 7085268019
                   </a>
                 </p>
               </div>
